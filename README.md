@@ -7,7 +7,7 @@ The standard modules used in the code were numpy, collections (defaultdict) and 
 
 ## Performance ##
 
-The code has been tested using a donor txt file downloaded from FEC's website (size 828.8). It can be further sped up with a customized function calculating rolling median. But I think the current implementation is fast enough relative to the input file size.
+The code has been tested using a donor txt file downloaded from FEC's website (size 828.8mb). It can be further sped up with a customized function calculating rolling median. But I think the current implementation is fast enough relative to the input file size.
 
 ## Miscellaneous ##
 
