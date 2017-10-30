@@ -1,7 +1,7 @@
 # Documentation #
 
 
-## Intro ##
+## Dependencies ##
 
 The standard modules used in the code were `numpy`, `collections` (`defaultdict`) and `re`.
 
