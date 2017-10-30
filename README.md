@@ -3,7 +3,7 @@
 
 ## Intro ##
 
-The standard modules used in the code were numpy, collections (defaultdict) and re.
+The standard modules used in the code were `numpy`, `collections` (`defaultdict`) and `re`.
 
 ## Performance ##
 
